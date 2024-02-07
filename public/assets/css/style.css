@@ -61,7 +61,7 @@
     transition: all 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     margin-top: 30px;
     margin-left: 45px;
-    
+    display: grid;
   }
   
   .card svg {
@@ -111,10 +111,11 @@
     line-height: 1.4;
   }
   
-  .grid-container {
-    display: grid;
-    grid-template-columns: repeat(2, 2fr); 
-    grid-gap: 500px
+  .slide-container {
+    max-width: 10000px;
+    width: 50px;
+    background-color: aqua;
+    padding: 12px, 0;
   }
 /* end container */
 

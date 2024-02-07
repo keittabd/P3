@@ -232,7 +232,7 @@
     <!-- End Navbar -->
     <br></br>
     <!-- container body -->
-    <div class="grid-container">
+    <div class="slide-container">
     <div class="card">
     <img src="./assets/img/wed.png" alt="wed.png">
     <div class="card__content">
