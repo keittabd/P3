@@ -138,4 +138,3 @@
         </div>
     </body>
 </html>
-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias saepe quae vel, facilis voluptatem adipisci distinctio dolor eum, amet ducimus aspernatur, atque delectus unde reiciendis fugit? Aliquid porro earum sint.
