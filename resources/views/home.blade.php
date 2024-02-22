@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/logo.png">
   <link rel="icon" type="image/png" href="./assets/img/logo.png">
-  <title>DIGI P</title>
+  <title>DIGI A</title>
   <!--     Fonts and icons     -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
   <!-- Nucleo Icons -->
@@ -51,11 +51,11 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="/bookshelf">
+          <a class="nav-link text-white " href="/file">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-            <img src="./assets/img/table.png" alt="bookshelf">
+            <img src="./assets/img/table.png" alt="file">
             </div>
-            <span class="nav-link-text ms-1">Bookshelf</span>
+            <span class="nav-link-text ms-1">File Album</span>
           </a>
         </li>
         <li class="nav-item">
@@ -64,22 +64,6 @@
             <img src="./assets/img/data.png" alt="data">
             </div>
             <span class="nav-link-text ms-1">Data Collection</span>
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-white " href="../pages/virtual-reality.html">
-            <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-            <img src="./assets/img/nw.png" alt="peminjaman">
-            </div>
-            <span class="nav-link-text ms-1">Borrowing</span>
-          </a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link text-white " href="../pages/rtl.html">
-            <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
-            <img src="./assets/img/rp.png" alt="laporan">
-            </div>
-            <span class="nav-link-text ms-1">Generation report</span>
           </a>
         </li>
         <li class="nav-item mt-3">
@@ -94,7 +78,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="./pages/sign-in.html">
+          <a class="nav-link text-white " href="/login">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">login</i>
             </div>
@@ -239,15 +223,8 @@
     <p class="card__title">Tere Liye-Hujan</p>
     <p class="card__description">Novel Hujan merupakan novel yang mengisahkan kisah cinta serta perjuangan hidup Lail. Saat usianya baru menginjak 13 tahun, Lail menjadi seorang yatim piatu akibat ayah dan ibu Lail yang terkena letusan Gunung Api Purba dan gempa yang membuat kota tempat mereka tinggal hancur.</p>
     </div>
-    </div>
-    <div class="card">
-    <div class="left-div">
-    <img src="./assets/img/wed.png" alt="wed.png">
-    <div class="card__content">
-    <p class="card__title">Tere Liye-Hujan</p>
-    <p class="card__description">Novel Hujan merupakan novel yang mengisahkan kisah cinta serta perjuangan hidup Lail. Saat usianya baru menginjak 13 tahun, Lail menjadi seorang yatim piatu akibat ayah dan ibu Lail yang terkena letusan Gunung Api Purba dan gempa yang membuat kota tempat mereka tinggal hancur.</p></div>
-  </div>
-</div></div>
+</div>
+
     <!-- End container body -->
   </main>
   <div class="fixed-plugin">

@@ -21,16 +21,18 @@ Route::get('/home', function () {
     return view('home');
 });
 
-
-Route::get('/bookshelf', function () {
-    return view('bookshelf');
-});
-
 Route::get('/data', function () {
     return view('data');
 });
 
+Route::get('/file', function () {
+    return view('filealbum');
+});
 
+Route::get('/login', function () {
+    return view('login');
+});
 
-
-
+Route::get('/logout', function () {
+    return view('logout');
+});
