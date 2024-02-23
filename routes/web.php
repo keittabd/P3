@@ -29,10 +29,10 @@ Route::get('/file', function () {
     return view('filealbum');
 });
 
-Route::get('/login', function () {
+Route::get('/signin', function () {
     return view('login');
 });
 
-Route::get('/logout', function () {
+Route::get('/signup', function () {
     return view('logout');
 });

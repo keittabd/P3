@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="apple-touch-icon" sizes="76x76" href="./assets/img/logo.png">
   <link rel="icon" type="image/png" href="./assets/img/logo.png">
-  <title>DIGI A</title>
+  <title>DIGI G</title>
   <!--     Fonts and icons     -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
   <!-- Nucleo Icons -->
@@ -63,7 +63,7 @@
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
             <img src="./assets/img/data.png" alt="data">
             </div>
-            <span class="nav-link-text ms-1">Data Collection</span>
+            <span class="nav-link-text ms-1">Gallery Data</span>
           </a>
         </li>
         <li class="nav-item mt-3">
@@ -78,7 +78,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="/login">
+          <a class="nav-link text-white " href="/signin">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">login</i>
             </div>
@@ -86,7 +86,7 @@
           </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link text-white " href="./pages/sign-up.html">
+          <a class="nav-link text-white " href="/signup">
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">assignment</i>
             </div>
